@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "js-yaml": "^3.7.0"
+  },
+  "devDependencies": {
+    "jest": "^18.0.0"
+  }
+}

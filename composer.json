@@ -1,0 +1,13 @@
+{
+    "name": "aar/test",
+    "scripts": {
+        "start": "php app.php"
+    },
+    "require": {
+        "symfony/yaml": "^3.2",
+        "webmozart/path-util": "^2.3"
+    }, 
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
